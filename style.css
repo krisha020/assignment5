@@ -112,6 +112,10 @@ div[class="nav"] .search {
 .search input[type="search"] {
   flex: 3;
 }
+.visually-hidden{
+	position: absolute;
+LEFT: -9999PX;
+}
 
 .search input[type="submit"] {
   flex: 1;
